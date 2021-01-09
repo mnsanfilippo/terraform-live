@@ -3,5 +3,5 @@
 locals {
   account_name   = "master"
   aws_account_id = "007272918127"
-  aws_profile    = "007272918127_AdministratorAccess"
+  aws_profile    = "a4l-master"
 }
